@@ -12,7 +12,7 @@ As part of Udacity Data Science Nanodegree Capstone Project, Starbucks has offer
 The files I used for this project were provided by Udacity platform as json inputs.
 
 ## File description
-There is one Jupyter Notebook here named Starbucks_Capstone_notebook.ipynb. This file created the full Python code I used for this project along with informative comments.
+There is one Jupyter Notebook here named Starbucks_Capstone_notebook.ipynb. This file includes the full Python code I used for this project along with informative comments.
 
 ## Results
 
