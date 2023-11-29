@@ -18,6 +18,7 @@ There is one Jupyter Notebook here named Starbucks_Capstone_notebook.ipynb. This
 
 The findings of this investigation have been posted in Medium. Please see link here:
 (https://medium.com/@georgios.kokkinopoulos/starbucks-offers-conversion-rate-demographics-4df4bf1cbae1)
+
 You can find a summary of the results here as well:
 * Demographic data about customers (profile dataset) was cleaned
 * Transcript data was enhanced in order to include converted offers, view rate and non-offer related spending by person
