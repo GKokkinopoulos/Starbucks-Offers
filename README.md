@@ -20,5 +20,5 @@ The findings of this investigation have been posted in Medium. Please see link h
 (https://medium.com/@georgios.kokkinopoulos/starbucks-offers-conversion-rate-demographics-4df4bf1cbae1)
 
 ## Licensing, Authors, Acknowledgements
-As mentioned above this is simulated data provided by Starbucks (no Personal data of customers is present here).
-You can find reference of the resources I used at the end of the Medium article above.
+As mentioned above this is simulated data provided by Starbucks (no personal data of customers is present here).
+You can find references of the resources I used at the end of the Medium article above.
